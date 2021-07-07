@@ -13,7 +13,7 @@
 
 ### A client has a name, CPF, income, date of birth and number of children. The Client entity specification is shown below:
 
-![Client entity](https://github.com/raiffsaid/ws-devsuperior/tree/main/challenge-1/public/client.png)
+<img align="right" width="100" height="100" src="https://github.com/raiffsaid/ws-devsuperior/tree/main/challenge-1/public/client.png">
 
 <br>
 
