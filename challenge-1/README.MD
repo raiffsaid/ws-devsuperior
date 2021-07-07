@@ -14,7 +14,7 @@
 ### A client has a name, CPF, income, date of birth and number of children. The Client entity specification is shown below:
 
 <p align="center">
-  <img width="100" height="100" src="public/client.png">
+  <img width="229.5" height="250.5" src="public/client.png">
 </p>
 
 <br>
